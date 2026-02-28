@@ -1,4 +1,7 @@
+Test update
+
 ## AWS Amplify Vue.js Starter Template
+GOOGLE_CALLBACK_URL=https://gandalf.langsmart.app/auth/google/callback
 
 This repository provides a starter template for creating applications using Vue.js and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
 
